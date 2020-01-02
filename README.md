@@ -2,7 +2,7 @@
 
 <a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"/></a> 
 
-[![GitHub issues](https://img.shields.io/github/stars/DeJayDev/yearbook.svg?style=flat-square)](https://github.com/DeJayDev/yearbook)
+[![GitHub issues](https://img.shields.io/github/stars/DeJayDev/yearbook-bot.svg?style=flat-square)](https://github.com/DeJayDev/yearbook-bot)
 
 ## Why
 
