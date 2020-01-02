@@ -1,0 +1,24 @@
+{
+  "name": "yearbook",
+  "version": "1.0.0",
+  "description": "Tweet out what day of the year it is daily at 7AM Central",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeJayDev/yearbook.git"
+  },
+  "author": "DeJay <contact@dejaydev.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DeJayDev/yearbook/issues"
+  },
+  "homepage": "https://github.com/DeJayDev/yearbook#readme",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "moment": "^2.24.0",
+    "twitter": "^1.7.1"
+  }
+}
